@@ -41,7 +41,7 @@ The tooltip technique is employed to display the weekly changes of KPIs.
 🔸The revenue for Week 27 and Week 28 was the highest among all, with a total of around 139.5 million. \
 🔸AtliQ Seasons earned the lowest revenue among all 7 types of properties, with just 5 million, and a low average rating of 2.31. \
 🔸AtliQ Grands have highest cancellation rate of 28% among all 7 types of properties. \
-🔸AtliQ lost around 200 Million in cancellation. \
+🔸AtliQ lost around 200 Million in cancellation.
 
 # Recommendations
 🔸Promotional offers can be offered by AtliQ to customers who visit/book hotels directly on their site or offline. This can increase their revenue atlest 10%.\
